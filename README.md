@@ -6,6 +6,8 @@ https://solve.mit.edu/challenges/good-jobs-and-inclusive-entrepreneurship
 
 The target date is the 31st of March, 2020 to finish this submission.
 
+Please feel free to add suggestions or addition or start a new branch.
+
 This submission involves an online marketplace designed from a combination of the Ravencoin (RVN) Block Chain and 
 the Interplanetary File System (IPFS).
 
