@@ -2,8 +2,8 @@
 
 Solution Name:
 
-# Direct To Market (DTM) a Distributed Trustless Marketplace "@liquidmetal suggestion"
- 
+# Direct To Market (DTM) a Distributed Trustless Marketplace 
+
 One-line solution summary:
 
 Every creator globally should be able to take ownership of their content, be paid the majority of the revenue and given the opportunity
