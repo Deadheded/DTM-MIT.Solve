@@ -29,12 +29,9 @@ Film your elevator pitch:
 What specific problem are you solving?:
 
 1.	The lack of global market access for the majority of the world population.
-# 2.	The lack of education in the digital economy.
-3.	The lack of income and wealth building opportunties in all communities.
-# 4.	The problems created from being part of the Un-Banked.
-5. Cultural preservation
-# 6. The top down revenue model of current economic systems.
-7.	The discrimination and stranglehold maintained by a small number of international corporations on digital content.
+2.	The lack of income and wealth building opportunties in all communities.
+3. Cultural preservation.
+4.	The discrimination and stranglehold maintained by a small number of international corporations on digital content.
  
 What is your solution?:
 
