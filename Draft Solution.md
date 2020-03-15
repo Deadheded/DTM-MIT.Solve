@@ -1,8 +1,8 @@
-Solution Overview
+# Solution Overview
 
 Solution Name:
 
-Direct To Market (DTM) a Distributed Trustless Marketplace "@liquidmetal suggestion"
+# Direct To Market (DTM) a Distributed Trustless Marketplace "@liquidmetal suggestion"
  
 One-line solution summary:
 
