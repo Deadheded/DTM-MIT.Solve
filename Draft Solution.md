@@ -1,23 +1,25 @@
 # Solution Overview
 
-Solution Name:
+Solution Name:  (40 character)
 
-# Direct To Market (DTM) a Distributed Trustless Marketplace 
+# Direct To Market (DTM) 
 
-One-line solution summary:
+(a Distributed Trustless Marketplace)
 
-Every creator globally should be able to take ownership of their content, be paid the majority of the revenue and given the opportunity
-to build a prosperous life from the products of their hard work, sweat and love.
+One-line solution summary: (140 characters)
+
+The DTM allows every creator globally to take ownership, retain majority revenues and gain non-discriminatory access to the world
+market.
 
 Pitch your solution:
 
-The DTM is an autonomous, non-discriminatory, global online marketplace.  The DTM allows anyone who wishes to sell their digital content
+The DTM is a Distributed Trustless Marketplace an autonomous, non-discriminatory, global online marketplace.  The DTM allows anyone who wishes to sell their digital content
 access to the world market.  The DTM exists upon globally distributed networks that are supported, not only by the users, but also by
 10’s of thousands of other entities that use the distributed networks services for other purposes.  There are neither corporate ententes
 nor shareholders to pay so the majority of each sale goes directly to the content producer within an hour of each sale.  Content
-producers retain full ownership and are assisted to copyright their material. There is revenue built in for Agents/Agencies, separate from
-what the content producers receive.  The system is designed to be a properly regulated capitalist marketplace.  A level playing field
-for all, intended to interject wealth and stability into all communities on all continents.  So if you are a small independent 
+producers retain full ownership and are assisted to copyright their material. There is revenue built in for Agents/Agencies, separate
+from what the content producers receive.  The system is designed to be a properly regulated capitalist marketplace.  A level playing
+field for all, intended to interject wealth and stability into all communities on all continents.  So if you are a small independent 
 researcher in Zambia, a documentarian in Korea, a local band in any city that is exhausted and grinding it out for the last 30 years, a 
 young book writer in the Middle East, that one hit wonder with a million dollar song, you now have access to the world without giving up
 control and a majority of the revenue to some corporation without your best interest in mind.     
@@ -29,9 +31,12 @@ Film your elevator pitch:
 What specific problem are you solving?:
 
 1.	The lack of global market access for the majority of the world population.
-2.	The lack of income and wealth building opportunties in all communities.
+2.	The lack of income and wealth building opportunities in all communities.
 3. Cultural preservation.
 4.	The discrimination and stranglehold maintained by a small number of international corporations on digital content.
+
+Musicians, artists, writers exist in all sectors of society.  By developing income opportunities in the digital content economy 
+not only does the DTM directly help these content providers, their increased income will enrich and uplift the communities around them.
  
 What is your solution?:
 
