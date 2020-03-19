@@ -165,6 +165,7 @@ file distribution and facilitating direct payments. OIP uses Block Chain technol
 central authority: record indexing, file storage/distribution and transaction management are carried out collectively by the 
 decentralized network. The system uses a Salutary Protocol model, which creates financial incentive at both the application and protocol 
 layers. https://www.alexandria.io/videos .
+
 Please select the technologies currently used in your solution:
 
 •	Block Chain technology. https://ravencoin.org/
