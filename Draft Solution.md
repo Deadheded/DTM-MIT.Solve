@@ -80,11 +80,12 @@ networks, and technology;
 
 2. Support workers to advocate for and access living wages, social safety nets, and financial security; and
 
-3. Equip workers with technological and digital literacy as well as the durable skills needed to stay apace with the changing job market.
+3. Equip workers with technological and digital literacy as well as the durable skills needed to stay apace with the changing job
+market.
 
-The DTM has the potential to create more wealth and more jobs for more people in every community around the world than any other solution.
-With a low cost of development and self sustainability the DTM has the ability to drastically improve the lives of hundreds of millions 
-of people. To this end the DTM directly address all three dimensions of this challange. 
+The DTM has the potential to create more wealth and more jobs for more people in every community around the world than any other
+solution.  With a low cost of development and self sustainability the DTM has the ability to drastically improve the lives of hundreds
+of millions of people. To this end the DTM directly address all three dimensions of this challange. 
 
 Explain how the problem, your solution, and your solution’s target population relate to the Challenge and your selected dimension.
 
@@ -129,54 +130,115 @@ Who is the primary delegate for your solution?
 Deadheded1@yahoo.com  for now..
 
 Describe what makes your solution innovative.
-Block Chain (BC) technology has been called “The Most Important Invention Since the Internet Itself”.  The distributed nature of BC makes it more stable and secure then current centralized solutions.  There are BC solutions currently being applied to securities, land titles, voting, finance, supply chain management and the list goes on.  We have combined the advantages of BC technology with a distributed cloud storage system to create a global digital marketplace that does not require a centralized authority to function.  The rules are the same for everyone so there is no bias or discrimination.  Designed to be a properly regulated capitalist market there are economic incentives built into the system to encourage entrepreneurship and job creation.  In addition to access to a global market the DTM will bring more people in to modern banking, educate people in the use of technology and inspire new innovations. 
+
+Block Chain (BC) technology has been called “The Most Important Invention Since the Internet Itself”.  The distributed nature of BC 
+makes it more stable and secure then current centralized solutions.  There are BC solutions currently being applied to securities, land 
+titles, voting, finance, supply chain management and the list goes on.  We have combined the advantages of BC technology with a 
+distributed cloud storage system to create a global digital marketplace that does not require a centralized authority to function.  The
+rules are the same for everyone so there is no bias or discrimination.  Designed to be a properly regulated capitalist market there are
+economic incentives built into the system to encourage entrepreneurship and job creation.  In addition to access to a global market the 
+DTM will bring more people in to modern banking, educate people in the use of technology and inspire new innovations. 
+
 Describe the core technology that powers your solution.
-The Interplanetary File System (IPFS), https://ipfs.io , makes up the bases of the storage solution.  The DTM creates a double layer encrypted storage area within the IPFS where all content is stored.  The Ravencoin (RVN) Block Chain, https://ravencoin.org , provides several functions in the system.  There are features specific to the RVN BC that allow for the delivery of encrypted content to a specific address or entity readable only by the intended receiver.  RVN BC also allows for near instant payments and complete transactional record keeping.  The last major component is Open Index Protocol (OIP), https://www.openindexprotocol.com , is an open source specification for a persistent worldwide index and file library useful for data publishing, file distribution and facilitating direct payments. OIP uses BC technology and distributed networking to operate with no central authority: record indexing, file storage/distribution and transaction management are carried out collectively by the decentralized network.
+
+The Interplanetary File System (IPFS), https://ipfs.io , makes up the bases of the storage solution.  The DTM creates a double layer 
+encrypted storage area within the IPFS where all content is stored.  The Ravencoin (RVN) Block Chain, https://ravencoin.org , provides 
+several functions in the system.  There are features specific to the RVN BC that allow for the delivery of encrypted content to a
+specific address or entity readable only by the intended receiver.  RVN BC also allows for near instant payments and complete 
+transactional record keeping.  The last major component is Open Index Protocol (OIP), https://www.openindexprotocol.com , is an open 
+source specification for a persistent worldwide index and file library useful for data publishing, file distribution and facilitating 
+direct payments. OIP uses BC technology and distributed networking to operate with no central authority: record indexing, file 
+storage/distribution and transaction management are carried out collectively by the decentralized network.
+
 Provide evidence that this technology works.
+
 While there is no demo combining all of the aspects of the DTM at the moment you can use many of the different features now.
-We use functions developed by https://www.mangofarmassets.com/ to encrypt and deliver content to consumers.  The process is outlined here: https://medium.com/@mangofarm/mango-farms-new-release-is-here-59f1830eff82 .  The site is free and everyone is encouraged to use it.
-https://ravenland.org and their https://mypin.io/#/ service is what will be used for encryption and storage functions. Ravenland has developed some unique uses of IPFS that will be incorporated in to the DTM.
-Open Index Protocol (OIP) is an open source specification for a persistent worldwide index and file library useful for data publishing, file distribution and facilitating direct payments. OIP uses Block Chain technology and distributed networking to operate with no central authority: record indexing, file storage/distribution and transaction management are carried out collectively by the decentralized network. The system uses a Salutary Protocol model, which creates financial incentive at both the application and protocol layers.
-https://www.alexandria.io/videos .
+We use functions developed by https://www.mangofarmassets.com/ to encrypt and deliver content to consumers.  The process is outlined 
+here: https://medium.com/@mangofarm/mango-farms-new-release-is-here-59f1830eff82 .  The site is free and everyone is encouraged to use 
+it.
+
+https://ravenland.org and their https://mypin.io/#/ service is what will be used for encryption and storage functions. Ravenland has 
+developed some unique uses of IPFS that will be incorporated in to the DTM.
+
+Open Index Protocol (OIP) is an open source specification for a persistent worldwide index and file library useful for data publishing,
+file distribution and facilitating direct payments. OIP uses Block Chain technology and distributed networking to operate with no 
+central authority: record indexing, file storage/distribution and transaction management are carried out collectively by the 
+decentralized network. The system uses a Salutary Protocol model, which creates financial incentive at both the application and protocol 
+layers. https://www.alexandria.io/videos .
 Please select the technologies currently used in your solution:
+
 •	Block Chain technology. https://ravencoin.org/
 •	Distributed Cloud Storage. https://ipfs.io/
 •	Indexing Protocols. https://www.openindexprotocol.com/
 •	End to end encryption.  https://www.openpgp.org 
-•	The DTM is be browser agnostic, meaning there may be multiple applications to access and interact with the DTM as a consumer. https://www.alexandria.io/ is one interface that can be used. 
+•	The DTM is be browser agnostic, meaning there may be multiple applications to access and interact with the DTM as a consumer. 
+https://www.alexandria.io/ is one interface that can be used. 
+
 What is your theory of change?
-By creating the tools and access for everyone to use, those with the entrepreneurial spirit will seize upon the opportunity to create an agency.  Those agencies in turn will bring more producers and consumers into the global digital market, thus driving income directly to members of all communities.  The DTM can increase global economic prosperity from the individual level.
+
+By creating the tools and access for everyone to use, those with the entrepreneurial spirit will seize upon the opportunity to create an 
+agency.  Those agencies in turn will bring more producers and consumers into the global digital market, thus driving income directly to
+members of all communities.  The DTM can increase global economic prosperity from the individual level.
+
 Do you primarily provide products or services directly to individuals, or to other organizations?
+
 Individual producers, consumers and the agent/agencies that support them.
+
 What is your path to financial sustainability?
-The current model calls for the DTM to be administered by a not for profit foundation.  The foundation would retain 30% of each sale up to $3.00 per sale for: 
+
+The current model calls for the DTM to be administered by a not for profit foundation.  The foundation would retain 30% of each sale up
+to $3.00 per sale for: 
+
 •	Staffing
 •	System maintenance and upgrades
 •	Fraud protection
 •	Legal issues
 •	Marketing 
-As the DTM grows the cost per-capita for administration will go down.  The percentage of revenue going to the foundation will be evaluated on a timely basis and adjusted downward, with a higher percentage going to the content providers, as financial situations allow.  
-During the course of developing and marketing the DTM many of those involved have opportunities to build relationships with content providers.  Many are leveraging these relationships into Agencies.  The intent is not to make profit directly from the revenue the DTM collects but to use the opportunity it provides to build new businesses.  The experienced gained and the business models built by these initial agencies will be used to market and train other people around the world to create other successful agencies.  These agencies will then increase the number of content providers and consumers.
+
+As the DTM grows the cost per-capita for administration will go down.  The percentage of revenue going to the foundation will be 
+evaluated on a timely basis and adjusted downward, with a higher percentage going to the content providers, as financial situations 
+allow.  
+
+During the course of developing and marketing the DTM many of those involved have opportunities to build relationships with content 
+providers.  Many are leveraging these relationships into Agencies.  The intent is not to make profit directly from the revenue the DTM 
+collects but to use the opportunity it provides to build new businesses.  The experienced gained and the business models built by these
+initial agencies will be used to market and train other people around the world to create other successful agencies.  These agencies 
+will then increase the number of content providers and consumers.
+
 What are your estimated expenses for 2020?
+
 150000 USD
+
 Partnership & Prize Funding Opportunities
+
 In which of the following areas do you most need partners or support?
+
 •	Software and application programming 
+
 •	Marketing, media, and business development
+
 Do you qualify for and would you like to be considered for The Andan Prize for Innovation in Refugee Inclusion?
+
 No
+
 Do you qualify for and would you like to be considered for the Innovation for Women Prize?
+
 No
+
 Do you qualify for and would you like to be considered for The Gulbenkian Award for Adult Literacy?
+
 No
+
 What type of organization is your solution team?
-For-profit, including B-Corp or similar models
+
+
 How many people work on your solution team?
-5
+
 How many years have you worked on your solution?
-5
+
 Why are you and your team well-positioned to deliver this solution?
 
 
-The lack of global market access, income and wealth building opportunities in all communities, cultural preservation and the discrimination and stranglehold maintained by a small number of international corporations on digital content.
+The lack of global market access, income and wealth building opportunities in all communities, cultural preservation and the 
+discrimination and stranglehold maintained by a small number of international corporations on digital content.
 
