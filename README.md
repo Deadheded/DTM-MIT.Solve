@@ -1,4 +1,4 @@
-MIT SOLVE Challange
+MIT SOLVE Challenge
 
 This repository is for collaboration on a submission to the MIT Solve challenge. 
 
