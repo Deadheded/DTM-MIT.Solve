@@ -243,3 +243,94 @@ Why are you and your team well-positioned to deliver this solution?
 The lack of global market access, income and wealth building opportunities in all communities, cultural preservation and the 
 discrimination and stranglehold maintained by a small number of international corporations on digital content.
 
+
+Block Chain (BC) technology has been called “The Most Important Invention Since the Internet Itself”. The distributed nature of BC makes
+it more stable and secure then current centralized solutions. There are BC solutions currently being applied to securities, land titles,
+voting, finance, supply chain management and the list goes on. We have combined the advantages of BC technology with a distributed cloud
+storage system to create a global digital marketplace that does not require a centralized authority to function. The rules are the same
+for everyone so there is no bias or discrimination. Designed to be a properly regulated capitalist market there are economic incentives
+built into the system to encourage entrepreneurship and job creation. In addition to access to a global market the DTM will bring more
+people in to modern banking, educate people in the use of technology and inspire new innovations.
+
+Our competitors are the centralized corporations that distribute content under the current economic system.  The DTM intends to disrupt
+the current system, to create a better, more robust system.  Any and all competitors are encouraged to join the DTM and even leverage
+their current advantages within the rules of the system.  
+
+Technology has reach the point where not only laws and governments can protect the rights of all people but market forces will play a 
+growing role in guaranteeing personal freedom.
+
+
+The Interplanetary File System (IPFS), https://ipfs.io , makes up the bases of the storage solution.  The DTM creates a double layer 
+encrypted storage area within the IPFS where all content is stored. 
+
+The Ravencoin (RVN) Block Chain, https://ravencoin.org , provides several functions in the system.  There are features specific to the
+RVN BC that allow for the delivery of encrypted content to a specific address or entity readable only by the intended receiver.  RVN BC
+also allows for near instant payments and complete transaction record keeping.
+
+The last major component is Open Index Protocol (OIP), https://www.openindexprotocol.com
+, is an open source specification for a persistent worldwide index and file library useful for data publishing, file distribution and
+facilitating direct payments. OIP uses BC technology and distributed networking to operate with no central authority: record indexing,
+file storage/distribution and transaction management are carried out collectively by the decentralized network.
+
+By combining the functions of each of these systems in innovative ways the DTM delivers content directly and securely to the consumers 
+while simultaneously delivering the payment funds directly in to the individual accounts of the receiving entities.  No, middle man or
+financial institution needed.
+
+
+
+While there is no demo combining all of the aspects of the DTM at the moment you can use many of the different features now. We use 
+functions developed by https://www.mangofarmassets.com/ to encrypt and deliver content to consumers. The process is outlined Here: 
+https://medium.com/@mangofarm/mango-farms-new-release-is-here-59f1830eff82 . The site is free and everyone is encouraged to use it.
+https://ravenland.org and their https://mypin.io/#/ service is what will be used for encryption and storage functions. Ravenland has 
+developed some unique uses of IPFS that will be incorporated in to the DTM.
+
+Open Index Protocol (OIP) is an open source specification for a persistent worldwide index and file library useful for data publishing,
+file distribution and facilitating direct payments. OIP uses Block Chain technology and distributed networking to operate with no 
+central authority: record indexing, file storage/distribution and transaction management are carried out collectively by the 
+decentralized network. The system uses a Salutary Protocol model, which creates financial incentive at both the application and protocol
+layers. https://www.alexandria.io/videos .
+
+
+By creating the tools and access for everyone to use, those with the entrepreneurial spirit will seize upon the opportunity to create an
+agency. Those agencies in turn will bring more producers and consumers into the global digital market, thus driving income directly to 
+members of all communities. The DTM can increase global economic prosperity from the individual level.
+
+The current system is in development and does not server the public in any current manor. 
+In one year, after the launch, projections are for between 20,000 and 50,000 consumers and content providers to be active on the DTM.
+The 5 year projection would be 1 million to 5 million on the low end.  
+There are some plans to expand the DTM in to other areas.  Due to the nature of the system we expect for creative people to start using
+the DTM in ways that we can not for tell at this time.  
+
+
+
+First goal is to have the code development done and in beta testing by 4th quarter 2020.
+There is one agency in active development with a goal of having 10 to 20 agencies setup by the end of 2020.
+We are currently working with industry insiders to market the DTM to content providers.   Our goal is to have 250 content provider 
+active at time of launch.  We may revise this number upward based on current interest.
+In 5 years our goal is to have the foundation fully funded by the operation of the DTM.  To have satellite offices in Central and South 
+America, Asia, Africa, The Middle East and India to promote agency creations.  We would like to see exponential growth in these areas as
+we believe these markets could best benefit from the DTM initially. 
+
+
+Our main barrier is funding and man power.  Currently all development is done by unpaid volunteers and a couple of for profit 
+corporations that volunteer their resources.  We also have volunteer legal advice at this time.
+We are very hesitant about where funding may come from because of our intent to build the DTM and then "Give it away" to the not for 
+profit foundation for administration.  Any funding source must understand the core principal of equal economic opportunity for all and 
+that there will be no direct profit from the DTM.
+
+A stable source of funding would greatly enhance the development and testing process.
+
+Our other main barrier are cultural barriers to acceptance and use of the DTM.  Many communities are distrustful of outsiders and 
+technology.  We have so far be able to overcome this barrier by partnering with individuals from those different communities.  In our 
+initial test markets we have been over whelmed at the interest in the DTM.  Our "ambassadors" have found a great need for the 
+opportunities the DTM provides.  We intend to continue to refine this marketing model and others to better equip future agencies.
+
+
+One way we intend to overcome our funding issues is through our marketing and promotion.  With the help of promoters we intend to 
+promote events with the proceeds to go toward the development of the DTM.  The can help further our development on several levels.
+Funds for the promotions will be razed through event token offerings. This is no different then some current promotional business models 
+acceptance that BC technology will be employed to track investment ownership and payments. 
+
+The events themselves will be marketing events for the DTM and will add the performers and the attendees to the DTM.  This will spread
+the interest not only to the content providers and consumers but also to the investment economy about he possibilities of the DTM. These 
+events also help break down the cultural barriers to acceptance
