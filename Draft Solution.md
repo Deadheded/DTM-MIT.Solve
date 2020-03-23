@@ -334,3 +334,61 @@ acceptance that BC technology will be employed to track investment ownership and
 The events themselves will be marketing events for the DTM and will add the performers and the attendees to the DTM.  This will spread
 the interest not only to the content providers and consumers but also to the investment economy about he possibilities of the DTM. These 
 events also help break down the cultural barriers to acceptance
+
+About Your Team
+
+What type of organization is your solution team?
+
+Other, including part of a larger organization (please explain below)
+
+If you selected Other, please explain here.
+
+Our team is diversified.  Our current developers are a for profit company that volunteers resources at this time.  These developers 
+reside in the UK, South Korea and Russia.  Many of the projects they are currently working on would be incorporated into the DTM. 
+Current marketing development team is headquartered in Tallahassee Florida, USA and has presence in Texas.  We have several volunteers
+from the Ravencoin community that lend their skills as they can.
+
+How many people work on your solution team?
+
+How many years have you worked on your solution?
+
+The DTM is directly tied to the development of the  Ravencoin Block Chain.  While the DTM was only conceived of in late 2019 the tools 
+that make it possible have been in development by a large community since January 2018.
+
+Why are you and your team well-positioned to deliver this solution?
+
+On the development side I do not believe there is any other organization that currently works with the underlying technologies on a
+daily basis or has as detailed understanding of how all of them work together as the people working on and the community surrounding 
+this project.  On the acceptance and marketing side we are blessed to be working with industry insiders.  They have agreed to work on
+the DTM because they believe in the underlying libertarian principals and the good that can be done.  They understand that the only true
+freedom is economic freedom.
+
+What organizations do you currently partner with, if any? How are you working with them?
+
+Needs more detail
+
+Your Business Model & Funding
+
+What is your business model?
+
+Needs more detail
+
+Do you primarily provide products or services directly to individuals, or to other organizations?
+
+To both individuals in content producers and consumers and to organizations in the agency model.
+
+What is your path to financial sustainability?
+
+Needs more detail
+
+If you have raised funds for your solution or are generating revenue, please provide details.
+
+Needs more 
+
+If you seek to raise funds for your solution, please provide details.
+
+Needs more detail
+
+What are your estimated expenses for 2020?
+
+Needs more detail
