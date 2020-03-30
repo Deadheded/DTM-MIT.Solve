@@ -159,6 +159,19 @@ layers. https://www.alexandria.io/videos .
 Audiovisual Media Big Data Blockchain Software and Mobile Applications
 
 # What is your theory of change?
+1.	Inputs:  The DTM is a Global Online Digital Marketplace, with non discriminatory, low barrier access for content creators.  The DTM
+allows creators from anywhere to offer their digital content to the world market thus better monetizing their work while retaining 
+ownership and majority revenue. 
+2.	Outputs:  Economic incentives built within the DTM encourage entrepreneurship.  An Agent/Agency business model is created to market 
+the DTM and service creators.  This new economic model will incentivize a host of support companies in area such as analytics, finance 
+and banking, service and management. 
+3.	Outcomes:  By having a global marketplace where everyone around the world has the same access and freedoms the direct interjections 
+of wealth in to all communities will create sustainable jobs and work to help close the global income gap. 
+
+4.	Evidence:  Quantitative or qualitative data that captures your inputs, outputs, and outcomes and that backs up your view of the 
+connections between them.
+
+
 By creating the tools and access for everyone to use, those with the entrepreneurial spirit will seize upon the opportunity to create an
 agency. Those agencies in turn will bring more producers and consumers into the global digital market, thus driving income directly to 
 members of all communities. The DTM can increase global economic prosperity from the individual level.
