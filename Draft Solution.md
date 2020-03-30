@@ -26,14 +26,16 @@ without giving up control and a majority of the revenue to corporations without 
 Needs more detail
 
 # What specific problem are you solving? (Required)
+
 1. The lack of global market access for the majority of the world population. 
 
 2. The lack of income and wealth building opportunities in all communities. 
 
 3. Cultural preservation.  
 
-Digital content is a file or information warehoused or published in a digital format. Digital content can be in many forms, from text 
-and audio and video files, to graphic, animation, and images.  Global Digital Content Creation Market valued approximately USD 10.69 
+Digital Content Creation (DCC) is the process of creating ideas and gathering information from any media in specific contexts.
+It can come in various forms such as text, audio/video files, graphics, animations, and images.​ DCC offers many benefits such as low-
+cost operation, huge return on investment and easy measurement.  Global Digital Content Creation Market valued approximately USD 10.69 
 billion in 2017 is anticipated to grow with a healthy growth rate of more than 16.82% over the forecast period 2018-2025.
 
 According to a study published by Midia, global recorded music revenue grew by $1.7 billion in 2017.  This represents an 8.5% increase 
@@ -41,9 +43,9 @@ over 2016’s $16 billion.   Yet, Midia made a surprising discovery.  When compa
 (unsigned artists) collected only $472 million.  Compared to the rest of the major labels, $472 million only constitutes 2.7% of all 
 global recording sales. 
 
-Musicians, artists, writers, researchers, film makers exist in all sectors of society.  By developing income opportunities in the 
-digital content economy not only does the DTM directly help these content providers, their increased income will enrich and uplift the 
-communities around them.
+Musicians, artists, writers, researchers, film makers exist in all sectors of society.  By developing income opportunities in the DCC 
+economy not only does the DTM directly help these content providers, their increased income will enrich and uplift the communities 
+around them.
 
 # What is your solution? (Required)
 The DTM is comprised of a public global cloud storage, block chain technology, encryption and innovative indexing protocols.  Everything 
