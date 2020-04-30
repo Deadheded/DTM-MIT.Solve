@@ -296,16 +296,35 @@ Edit
 # Why are you applying to Solve?
 Needs more detail
 # In which of the following areas do you most need partners or support?
-Needs more detail
+Business model, Funding and revenue model, Talent recruitment, Marketing, media, and exposure
 # Please explain in more detail here.
 Needs more detail
 # What organizations would you like to partner with, and how would you like to partner with them?
 Needs more detail
 # Do you qualify for and would you like to be considered for The Andan Prize for Innovation in Refugee Inclusion?
-Needs more detail
+The DTM is non discriminating and allows anyone with Internet access to create wealth.  The opportunities open to Refugees are the same
+for all people and provides job opportunities not normally available to these groups.
 # Do you qualify for and would you like to be considered for the Innovation for Women Prize?
-Needs more detail
+Women are very under represented in most of the DCC economy.  Music, Books, Movies, Research are all dominated by men.  Much of this is 
+due to prejudice at market access points.  The DTM provides equal access to all people regardless of gender.  In every instance where 
+women are given a level field to compete on they have proven they are at least on par with their male counterparts.  We believe there is 
+an enormous amount of untapped talent among the worlds female population and with the DTM we hope to exploit that talent to make a more
+just and equitable world. 
 # Do you qualify for and would you like to be considered for The GM Prize on Good Jobs and Inclusive Entrepreneurship?
-Needs more detail
+The DTM will provide a unique opportunity for data analytics that no other system could provide.  Through the use of block chain
+technology the DTM can provide transnational date down to the eighth decimal point at the touch of a button.  All the data can be 
+delivered without endangering the personal data of individuals.  Along with Open Index Protocol all the data can be analysed against 
+many different informational value points.  Many different types of economical, psychological and sociological areas of research present
+themselves with this type of access.  We believe most of the opportunities using strong data science, artificial intelligence, or 
+machine learning presented by the DTM are beyond our foresight at this time. 
 # Do you qualify for and would you like to be considered for The Gulbenkian Award for Adult Literacy?
-Needs more detail
+no
+# Do you qualify for and would you like to be considered for the AI for Humanity Prize?
+
+The DTM will provide a unique opportunity for data analytics that no other system could provide.  Through the use of block chain
+technology the DTM can provide transnational date down to the eighth decimal point at the touch of a button.  All the data can be
+delivered without endangering the personal data of individuals.  Along with Open Index Protocol all the data can be analysed against
+many different informational value points.  Many different types of economical, psychological and sociological areas of research present
+themselves with this type of access.  We believe most of the opportunities using strong data science, artificial intelligence, or
+machine learning presented by the DTM are beyond our foresight at this time. 
+
